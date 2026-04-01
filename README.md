@@ -34,13 +34,12 @@ Currently, I’m studying **React.js, Node.js (NestJS, Next.js)** and improving 
 
 ---
 
-### 📝 Todo App
+## 📝 Mafia App
 
 ![Preview](./images/mafia.png)
 
 - 🔗 [Repository](https://github.com/Kapysta017/Mafia)
 - ⚙️ Tech: React, Node.js, WebSocket
-- 
 <!--
 **Oleksandr-Korlykhanov/Oleksandr-Korlykhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
